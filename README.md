@@ -29,3 +29,11 @@ Pour pouvoir jouer, vous devez avoir **Python 3** installé sur votre machine, a
    Ouvrez un terminal ou une invite de commande et tapez :
    ```bash
    pip install pygame
+   ```
+
+3. **Lancer le jeu avec la commande** :
+   ```bash
+   python3 sponge.py
+   ```
+
+# **Bon jeu à tous !** 
